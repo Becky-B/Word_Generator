@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    color: blue;
+}
+h1{
+    border-style: ridge;
+    border-color: rgb(84, 218, 218);
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 3%;
+
+}
